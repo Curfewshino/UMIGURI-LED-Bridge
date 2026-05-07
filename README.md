@@ -3,7 +3,7 @@
 > Real-time WebSocket → Tasoller LED bridge for UMIGURI and host-aprom firmware.
 
 <p align="center">
-  <img src="screenshots/screenshot.png" width="800">
+  <img src="screenshot.png" width="800">
 </p>
 
 ---
